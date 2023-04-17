@@ -1,7 +1,14 @@
 <!DOCTYPE html>
 <html>
-<head> </head>
 <body>
-    My first web page
+
+<h6 style="font-family:Arial, Helvetica, sans-serif;">D</h6>
+<h6 style="font-family:Arial, Helvetica, sans-serif;">A</h6>
+<h5 style="font-family:Arial, Helvetica, sans-serif;">N</h5>
+<h4 style="font-family:Arial, Helvetica, sans-serif;">E</h4>
+<h3 style="font-family:Arial, Helvetica, sans-serif;">V</h3>
+<h2 style="font-family:Arial, Helvetica, sans-serif;">E</h2>
+<h1 style="font-family:Arial, Helvetica, sans-serif;">R</h1>
+
 </body>
 </html>
