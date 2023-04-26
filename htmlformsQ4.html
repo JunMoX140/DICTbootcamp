@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HTML FORM Q4</title>
+    <style>
+      h1 {
+        padding-bottom: 1%;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>MP3 Player</h1>
+    <form action="action_page.html">
+      <div>
+        <label for="song">Song:</label>
+        <select name="song" id="song">
+          <option value="song1">Song 1</option>
+          <option value="song2">Song 2</option>
+          <option value="song3">Song 3</option>
+          <option value="song4">Song 4</option>
+          <option value="song5">Song 5</option>
+        </select>
+      </div>
+      <label for="vol">Volume:</label>
+      <input type="range" min="10" max="80" name="vol" id="vol" />
+      <div><input type="submit" value="Play" /></div>
+    </form>
+  </body>
+</html>
